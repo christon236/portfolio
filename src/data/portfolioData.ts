@@ -11,7 +11,7 @@ export const navItems: NavItem[] = [
 
 export const heroData = {
   developerTag: '</ Full-Stack Developer />',
-  name: 'JOHN CHRISTAN',
+  name: 'JOHN CHRISTAN J',
   role: 'Python Django Full-Stack Developer',
   description: 'I build scalable web applications, modern user experiences, and reliable backend systems.',
   socials: [

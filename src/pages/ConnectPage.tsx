@@ -72,7 +72,7 @@ export const ConnectPage: React.FC<ConnectPageProps> = ({ onNavigateHome }) => {
             {/* Name, Role & Subtext */}
             <div className="flex flex-col">
               <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight font-sans mb-1.5">
-                JOHN CHRISTAN
+                JOHN CHRISTAN J
               </h1>
               <h2 className="text-lg sm:text-xl font-semibold text-slate-200 tracking-tight mb-3 font-sans">
                 Python Django Full-Stack Developer
