@@ -11,7 +11,7 @@ export const navItems: NavItem[] = [
 
 export const heroData = {
   developerTag: '</ Full-Stack Developer />',
-  name: 'JOHN CHRISTAN J',
+  name: 'JOHN CHRISTAN ',
   role: 'Python Django Full-Stack Developer',
   description: 'I build scalable web applications, modern user experiences, and reliable backend systems.',
   socials: [
@@ -99,7 +99,7 @@ export const projectsData: ProjectItem[] = [
 
 export const timelineData: TimelineMilestone[] = [
   {
-    year: 'MAY 2026 – PRESENT',
+    year: 'JUNE 2026 – AUG 2026',
     title: 'Python Full Stack Developer ',
     description: 'GEOSYS IT SOLUTIONS • Developing real-time web applications using Python, Django, React, and MySQL. Designing and implementing backend APIs and responsive frontend features.',
   },
